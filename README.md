@@ -1,2 +1,3 @@
-# portfolio_website_ts
-A personal portfolio website built with TypeScript
+# Personal Portfolio Website
+
+A *work in progress* portfolio website built as an exercise to learn TypeScript.
